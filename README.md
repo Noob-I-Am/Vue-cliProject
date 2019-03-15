@@ -29,6 +29,7 @@
 
 
 ##2.用npm命令安装vue-cli框架
+<br>
 *>全局安装可以用 npm install -g vue-cli   命令*
 <br>
 ![](https://raw.githubusercontent.com/Noob-I-Am/Vue-cliProject/master/images/sintallVueCli20190315132138.png)
@@ -38,6 +39,7 @@
 
 
 ##3.搭建项目初始工程文件夹
+<br>
 *>在目标路径下使用命令 vue init webpack +文件夹名 的方式称初始化工程*
 ![](https://raw.githubusercontent.com/Noob-I-Am/Vue-cliProject/master/images/INIT20190315134707.png)
 
